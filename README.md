@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **devstarsukalyan@hotmail.com**
 
-- 📄 Know about my experiences [short.gy/SlM4vd](short.gy/SlM4vd)
+- 📄 Know about my experiences [https://short.gy/SlM4vd](https://short.gy/SlM4vd)
 
 - ⚡ Fun fact **I am funny then you**
 
