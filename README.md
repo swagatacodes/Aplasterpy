@@ -1,4 +1,4 @@
-<img src = "https://github.com/Aplasterpy/header_img/blob/main/ss.png">
+<img src = "https://github.com/Aplasterpy/header_img/blob/068d269d47e64375a16f85da950e09ddc6c76a26/ss.png">
 <h1 align="center">Hi 👋, I'm Sukalyan Makal</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aplasterpy" alt="aplasterpy" /></a> </p>
 
-- 🌱 I’m currently learning **ML| React js**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aplasterpy](https://github.com/Aplasterpy)
 
