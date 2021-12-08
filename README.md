@@ -1,4 +1,4 @@
-<img src = "github.com/Aplasterpy/header_img/blob/main/ss.png">
+<img src = "https://github.com/Aplasterpy/header_img/blob/main/ss.png">
 <h1 align="center">Hi 👋, I'm Sukalyan Makal</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
