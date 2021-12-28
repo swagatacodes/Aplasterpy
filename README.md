@@ -1,18 +1,18 @@
 <img src = "https://github.com/Aplasterpy/header_img/blob/068d269d47e64375a16f85da950e09ddc6c76a26/ss.png">
-<h1 align="center">Hi 👋, I'm Sukalyan Makal</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h1 align="center">Hi, I'm Sukalyan Makal</h1>
+<h3 align="center">A passionate Software Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aplasterpy&label=Profile%20views&color=0e75b6&style=flat" alt="aplasterpy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aplasterpy" alt="aplasterpy" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🤩 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aplasterpy](https://github.com/Aplasterpy)
 
-- 💬 Ask me about **Python| Django| ML**
+- 👉 Ask me about **Python| Django| ML**
 
-- 📫 How to reach me **devstarsukalyan@hotmail.com**
+- 📧 How to reach me **devstarsukalyan@hotmail.com**
 
 - 📄 Know about my experiences [https://short.gy/SlM4vd](https://short.gy/SlM4vd)
 
