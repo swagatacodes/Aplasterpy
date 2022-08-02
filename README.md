@@ -1,6 +1,6 @@
 <img src = "https://github.com/Aplasterpy/header_img/blob/main/1.png">
 <h1 align="center">Hi, I'm Sukalyan Makal</h1>
-<h3 align="center">A passionate Software Programmer from India</h3>
+<h3 align="center">A passionate Software Programmer & Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aplasterpy&label=Profile%20views&color=0e75b6&style=flat" alt="aplasterpy" /> </p>
 
