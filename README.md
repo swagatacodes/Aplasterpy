@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aplasterpy](https://github.com/Aplasterpy)
 
-- 👉 Ask me about **Python| Django| ML**
+- 👉 Ask me about **Python| Data Analytics| ML | Power BI | Tableau**
 
 - 📧 How to reach me **devstarsukalyan@hotmail.com**
 
-- 📄 Know about my experiences [https://short.gy/SlM4vd](https://short.gy/SlM4vd)
+- 📄 Know about my experiences [http://surl.li/coxfl](http://surl.li/coxfl)
 
 - ⚡ Fun fact **I am funny then you**
 
