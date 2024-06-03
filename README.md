@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [http://surl.li/coxfl](http://surl.li/coxfl)
 
-- ⚡ Fun fact **I am funny then you**
+- ⚡ Fun fact **I am funnier than you**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
